@@ -1,0 +1,72 @@
+{
+    "templates": [
+      {
+        "financing_program_external_name": "Default",
+        "financing_program_name": "default_program_v4_92exp",
+        "financing_program_v2_uuid": null,
+        "ala": {
+          "html_tagline": {
+            "default_message": "Buy in monthly payments with {affirm_logo} on orders over {minimum_loan_amount}",
+            "custom_message": null
+          },
+          "tagline": {
+            "default_message": "",
+            "custom_message": "Pay as low as {payment}/month"
+          },
+          "cta": {
+            "default_message": "<i class=\"icon ic-info-fill\"></i>",
+            "custom_message": null
+          },
+          "cta_divider": ""
+        },
+        "environment": "live",
+        "state": null,
+        "prequal_enabled": false,
+        "page_type": null,
+        "modal": {
+          "styles": { "color": null, "fontFamily": "'proxima-nova', sans-serif" },
+          "content_space_1": {
+            "default_message": "quick_and_easy",
+            "custom_message": null
+          },
+          "description": { "default_message": "", "custom_message": null },
+          "footer": {
+            "default_message": "A down payment may be required. Subject to eligibility check and approval. Payment options depend on your purchase amount. Estimated payment amount excludes taxes and shipping fees. Actual terms may vary. Payment options through Affirm are provided by these lending partners: {loan_originator_link}. Visit affirm.com/help for more info.",
+            "custom_message": null
+          },
+          "headline": {
+            "default_message": "Buy now, pay over time",
+            "custom_message": "Make easy monthly payments over {term_lengths} months"
+          },
+          "tagline": {
+            "default_message": "Rates from {apr_range}% APR.",
+            "custom_message": "{payment}/mo. based on a purchase price of {amount} at {apr}% APR for {term_length} months. Rates from {apr_range}% APR."
+          },
+          "button": {
+            "default_message": "Just select {affirm_logo} at checkout.",
+            "custom_message": null
+          },
+          "footer_apr_text": null,
+          "content_space_2": {
+            "default_message": "no_hidden_fees",
+            "custom_message": null
+          },
+          "html_footer": {
+            "default_message": "A down payment may be required. Subject to eligibility check and approval. Payment options depend on your purchase amount. Estimated payment amount excludes taxes and shipping fees. Actual terms may vary. Payment options through Affirm are provided by these lending partners: {loan_originator_link}. Visit affirm.com/help for more info.",
+            "custom_message": null
+          },
+          "images": {
+            "hero2x": null,
+            "logo": "https://cdn1.affirm.com/platform/public/promos/assets/PCB6V5X5RWSPJFYE/logo/logo1x.png",
+            "hero": null,
+            "logo2x": "https://cdn1.affirm.com/platform/public/promos/assets/PCB6V5X5RWSPJFYE/logo/logo2x.png"
+          },
+          "terms_description": { "default_message": "", "custom_message": null }
+        },
+        "merchant_ari": "PCB6V5X5RWSPJFYE",
+        "external_id": "promo_set_no_logo_mobile_pay",
+        "id": "256839"
+      }],
+    "financing_programs": ["standard_3_6_12", "coa_app_0_apr"]
+  }
+  
